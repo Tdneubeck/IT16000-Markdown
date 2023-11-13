@@ -6,4 +6,4 @@ The border collie is a very energetic dog with electric speed and a brilliant mi
 #### Cane Corso
 The other dog that is beloved by Europe is a very different type of dog than the border collie. These _magnificent_ Beasts are intimidating and are great guard dogs for around the house. They are loyal and sweet dogs unless you are trying to hurt one of their pack, Then they would come at you with a bit force of **over 700 Pounds**
 
-[Home](README.md)
+[Home](README.md) [Next](AFCAdog.md)
