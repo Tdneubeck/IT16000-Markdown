@@ -5,4 +5,4 @@
 
 A very lovable creature, the pug is popular in Asia. These dogs are not working dogs but more of a lap dogs and cuddle partners they have a reasonable amount of intellect and can have very expressive personalities
 
-[home](README.md)
+[Home](README.md) [Next](EUdog.md)
