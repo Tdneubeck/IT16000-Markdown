@@ -12,3 +12,4 @@ The friendliness and companionship make these dogs great pets and great dogs wit
 > _"Labrador Retrievers are everything you’d expect of man’s best friend. They’re friendly and outgoing, devoted to their families, eager to please and easygoing, yet energetic."_ - Purina.com
 > ###### [Link](https://www.purina.com/dogs/dog-breeds/labrador-retriever)
 
+[Home](README.me)
