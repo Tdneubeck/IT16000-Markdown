@@ -4,7 +4,7 @@
 ### Pages
 - [North American Dog](NAdog.md)
 - [South American Dog](SAdog.md)
-- [Asian Dog](Asiadog.md)
+- [Asian Dog](ASIAdog.md)
 - [European Dog](EUdog.md)
 - [African Dog](AFCAdog.md)
 - [Australian Dog](AUSdog.md)
