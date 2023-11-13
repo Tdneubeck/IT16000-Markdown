@@ -8,4 +8,4 @@ The Basenji dog is a unique breed that has been native to Africa for a long time
 American Kennel Club States:
 > A Basenji should never run loose, as the breed's instinct to hunt is very strong, and the dog might not be able to resist the urge to run off on a chase.
 
-[Home](README.md)
+[Home](README.md) [Next](AUSdog.md)
